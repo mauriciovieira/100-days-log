@@ -1,0 +1,27 @@
+{
+  "name": "100-days-log",
+  "version": "0.1.0",
+  "description": "My 100 days of code log",
+  "main": "",
+  "engines" : { "node" : ">=8.6" },
+  "scripts": {
+    "build": "doctoc ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauriciovieira/100-days-log.git"
+  },
+  "keywords": [
+    "100DaysOfCode",
+    "log"
+  ],
+  "author": "Mauricio Vieira <mauricio@mauriciovieira.net> (http://mauriciovieira.net/)",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/mauriciovieira/100-days-log/issues"
+  },
+  "homepage": "https://github.com/mauriciovieira/100-days-log#readme",
+  "devDependencies": {
+    "doctoc": "^1.3.1"
+  }
+}
