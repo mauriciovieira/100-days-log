@@ -33,3 +33,11 @@ Notes: <br />
 [1] Using [skitch](https://github.com/mauriciovieira/eiitp/commit/d24825654191aee096c27297ba694f5a56866388)<br />
 [2] Using [isometric-contributions](https://github.com/jasonlong/isometric-contributions)
 
+## Author
+
+| ![Mauricio Vieira](https://avatars2.githubusercontent.com/u/95258?s=150&v=4)|
+|:---------------------:|
+|  [Mauricio Vieira](https://github.com/mauriciovieira/)   |
+
++ <http://mauriciovieira.net>
++ <https://twitter.com/mauriciovieira>
