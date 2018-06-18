@@ -1,6 +1,29 @@
 # 100-days-log
 The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4)
 
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [2018-06-17 day 2](#2018-06-17-day-2)
+- [2018-06-17 day 1](#2018-06-17-day-1)
+- [2018-06-17 Initial commit](#2018-06-17-initial-commit)
+- [Author](#author)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## 2018-06-17 day 2
+
+Worked on [https://github.com/NozesNaBrita/nnb-spotify-wrapper](nnb-spotify-wrapper).
+
+![20180618-day2](https://user-images.githubusercontent.com/95258/41521547-41ecb9bc-72db-11e8-9535-7cf314075803.png)
+
+
+## 2018-06-17 day 1
+
+Worked on [https://github.com/NozesNaBrita/nnb-spotify-wrapper](nnb-spotify-wrapper), [published it](https://www.npmjs.com/package/nnb-spotify-wrapper) to npm.
+
 ## 2018-06-17 Initial commit
 
 A few days ago, I read a [blog post](https://www.codingame.com/blog/100-days-of-code-challenge/) about the #100DaysOfCode challenge and decided to try it.
@@ -14,7 +37,7 @@ $ python -c 'import datetime; print((datetime.datetime.today()+datetime.timedelt
 
 I'll also try to take a screenshot[1] of my contributions[2], every day. Today, before creating this repository, the situation was
 
-![20180617-d1](https://user-images.githubusercontent.com/95258/41507132-f13ea79c-7234-11e8-80fa-788a9d838c1b.png)
+![20180617-d0](https://user-images.githubusercontent.com/95258/41507132-f13ea79c-7234-11e8-80fa-788a9d838c1b.png)
 
 In my wishlist there are the following tasks:
 
