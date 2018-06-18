@@ -6,16 +6,16 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [2018-06-17 day 2](#2018-06-17-day-2)
+- [2018-06-18 day 2](#2018-06-18-day-2)
 - [2018-06-17 day 1](#2018-06-17-day-1)
 - [2018-06-17 Initial commit](#2018-06-17-initial-commit)
 - [Author](#author)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## 2018-06-17 day 2
+## 2018-06-18 day 2
 
-Worked on [https://github.com/NozesNaBrita/nnb-spotify-wrapper](nnb-spotify-wrapper).
+Worked on [https://github.com/NozesNaBrita/nnb-spotify-wrapper](nnb-spotify-wrapper). Published version 1.0.0 to [npm](https://www.npmjs.com/package/nnb-spotify-wrapper).
 
 ![20180618-day2](https://user-images.githubusercontent.com/95258/41521547-41ecb9bc-72db-11e8-9535-7cf314075803.png)
 
@@ -62,5 +62,5 @@ Notes: <br />
 |:---------------------:|
 |  [Mauricio Vieira](https://github.com/mauriciovieira/)   |
 
-+ <http://mauriciovieira.net>
++ <https://mauriciovieira.net>
 + <https://twitter.com/mauriciovieira>
