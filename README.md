@@ -6,12 +6,25 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [2018-06-19 day 3](#2018-06-19-day-3)
 - [2018-06-18 day 2](#2018-06-18-day-2)
 - [2018-06-17 day 1](#2018-06-17-day-1)
 - [2018-06-17 Initial commit](#2018-06-17-initial-commit)
 - [Author](#author)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## 2018-06-19 day 3
+
+Created a simple rails project [opinionation](https://github.com/mauriciovieira/opinionation), with:
+* Rails 5.1
+* Ruby 2.5.1
+* jquery
+* twitter-bootstrap-rails
+* devise, devise-bootstraped
+* act_as_commentable
+
+![20180619-day3](https://user-images.githubusercontent.com/95258/41580462-a84e9e6e-73a3-11e8-9e25-811129d694a7.png)
 
 ## 2018-06-18 day 2
 
