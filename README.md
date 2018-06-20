@@ -6,6 +6,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [2018-06-20 day 4](#2018-06-20-day-4)
 - [2018-06-19 day 3](#2018-06-19-day-3)
 - [2018-06-18 day 2](#2018-06-18-day-2)
 - [2018-06-17 day 1](#2018-06-17-day-1)
@@ -13,6 +14,10 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 - [Author](#author)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## 2018-06-20 day 4
+
+Worked on [opinionation](https://github.com/mauriciovieira/opinionation) project.
 
 ## 2018-06-19 day 3
 
