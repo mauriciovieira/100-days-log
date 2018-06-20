@@ -19,6 +19,8 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 
 Worked on [opinionation](https://github.com/mauriciovieira/opinionation) project.
 
+![20180620-day4](https://user-images.githubusercontent.com/95258/41639300-e2336412-7465-11e8-8492-869071f959cb.png)
+
 ## 2018-06-19 day 3
 
 Created a simple rails project [opinionation](https://github.com/mauriciovieira/opinionation), with:
