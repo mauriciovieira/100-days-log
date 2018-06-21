@@ -6,6 +6,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [2018-06-21 day 5](#2018-06-21-day-5)
 - [2018-06-20 day 4](#2018-06-20-day-4)
 - [2018-06-19 day 3](#2018-06-19-day-3)
 - [2018-06-18 day 2](#2018-06-18-day-2)
@@ -14,6 +15,16 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 - [Author](#author)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## 2018-06-21 day 5
+
+Worked on [opinionation](https://github.com/mauriciovieira/opinionation) project. Added emojis!
+
+![projects-20180621-opinionation](https://user-images.githubusercontent.com/95258/41699816-5fa70b1a-752e-11e8-9086-d664ea4713ca.png)
+
+My progress so far
+
+![20180621-day5](https://user-images.githubusercontent.com/95258/41699820-627e9aa6-752e-11e8-956c-9afc600f5cb7.png)
 
 ## 2018-06-20 day 4
 
