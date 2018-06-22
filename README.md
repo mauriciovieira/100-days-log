@@ -6,6 +6,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [2018-06-22 day 6](#2018-06-22-day-6)
 - [2018-06-21 day 5](#2018-06-21-day-5)
 - [2018-06-20 day 4](#2018-06-20-day-4)
 - [2018-06-19 day 3](#2018-06-19-day-3)
@@ -15,6 +16,12 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 - [Author](#author)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## 2018-06-22 day 6
+
+I'm traveling untill sunday. So for today and the next days I'll work on [exercism.io problem](https://github.com/mauriciovieira/exercism-tracks) in golang.
+
+<img width="741" alt="20180622-day6" src="https://user-images.githubusercontent.com/95258/41795775-a9fc97cc-766c-11e8-8ba2-a861e0706dff.png">
 
 ## 2018-06-21 day 5
 
