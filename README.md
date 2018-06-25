@@ -20,7 +20,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 
 ## 2018-06-25 day 7
 
-Didn't have connection saturday and sunday. I'm restarted today with [exercism.io](https://github.com/mauriciovieira/exercism-tracks). I'm [setting up C exercises](https://github.com/mauriciovieira/exercism-tracks/pull/4) to be executed by [circle-ci](https://circleci.com/gh/mauriciovieira/exercism-tracks/).
+Didn't have connection saturday and sunday. I restarted today with [exercism.io](https://github.com/mauriciovieira/exercism-tracks). I'm [setting up C exercises](https://github.com/mauriciovieira/exercism-tracks/pull/4) to be executed by [circle-ci](https://circleci.com/gh/mauriciovieira/exercism-tracks/).
 
 ![20180625-day7](https://user-images.githubusercontent.com/95258/41834212-13636f9c-785c-11e8-823b-32cac7c449cc.png)
 
