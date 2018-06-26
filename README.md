@@ -6,6 +6,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [2018-06-26 day 8](#2018-06-26-day-8)
 - [2018-06-25 day 7](#2018-06-25-day-7)
 - [2018-06-22 day 6](#2018-06-22-day-6)
 - [2018-06-21 day 5](#2018-06-21-day-5)
@@ -17,6 +18,17 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 - [Author](#author)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## 2018-06-26 day 8
+
+I worked on [exercism.io](https://github.com/mauriciovieira/exercism-tracks). I fixed [circle-ci](https://circleci.com/gh/mauriciovieira/exercism-tracks/) build for C code.
+
+Created [supersales rails project](https://github.com/mauriciovieira/supersales) with:
+* Rails 5.2
+* Ruby 2.5.1
+* rails_admin
+
+![20180626-day8](https://user-images.githubusercontent.com/95258/41936592-46d1c4e2-7996-11e8-8350-9f39b658491e.png)
 
 ## 2018-06-25 day 7
 
