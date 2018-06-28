@@ -6,6 +6,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [2018-06-27 day 9](#2018-06-27-day-9)
 - [2018-06-26 day 8](#2018-06-26-day-8)
 - [2018-06-25 day 7](#2018-06-25-day-7)
 - [2018-06-22 day 6](#2018-06-22-day-6)
@@ -18,6 +19,14 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 - [Author](#author)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## 2018-06-27 day 9
+
+I worked on my [exercism-tracks](https://github.com/mauriciovieira/exercism-tracks/compare/39c3bb1440f5...3008a99), a bit of go, python and ruby.
+
+I continued to make the [supersales rails project](https://github.com/mauriciovieira/supersales), as well.
+
+![20180627-day9](https://user-images.githubusercontent.com/95258/42016784-792b6d60-7ab5-11e8-972e-5a9d5c705e9c.png)
 
 ## 2018-06-26 day 8
 
