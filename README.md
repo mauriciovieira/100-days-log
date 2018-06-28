@@ -6,6 +6,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [2018-06-28 day 10](#2018-06-28-day-10)
 - [2018-06-27 day 9](#2018-06-27-day-9)
 - [2018-06-26 day 8](#2018-06-26-day-8)
 - [2018-06-25 day 7](#2018-06-25-day-7)
@@ -19,6 +20,12 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 - [Author](#author)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## 2018-06-28 day 10
+
+I did one python [exercism](https://github.com/mauriciovieira/exercism-tracks/). Also, I installed Devise and [active_record_upsert](https://github.com/jesjos/active_record_upsert) to [supersales rails project](https://github.com/mauriciovieira/supersales).
+
+![20180628-day10](https://user-images.githubusercontent.com/95258/42060986-51ba0d8c-7b31-11e8-92a7-cc7d901163b4.png)
 
 ## 2018-06-27 day 9
 
