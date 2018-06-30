@@ -6,6 +6,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [2018-06-29 day 11](#2018-06-29-day-11)
 - [2018-06-28 day 10](#2018-06-28-day-10)
 - [2018-06-27 day 9](#2018-06-27-day-9)
 - [2018-06-26 day 8](#2018-06-26-day-8)
@@ -20,6 +21,13 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 - [Author](#author)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## 2018-06-29 day 11
+
+Worked on [supersales rails project](https://github.com/mauriciovieira/supersales).
+
+![20180629-day11](https://user-images.githubusercontent.com/95258/42121913-344159ca-7c41-11e8-81d9-8aa2d6147a13.png)
+
 
 ## 2018-06-28 day 10
 
