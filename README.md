@@ -27,7 +27,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 
 Worked on [supersales rails project](https://github.com/mauriciovieira/supersales). Implemented [cancancan2 + rails_admin configuration](https://github.com/mauriciovieira/supersales/commit/90ab958bf4d8ae2720596056c0179360d6b08fba), and added high_voltage gem to it.
 
-![20180630-day12](https://user-images.githubusercontent.com/95258/42129296-e47ec4ac-7cc9-11e8-8c5a-3d68a3666aa1.png)
+![20180630-day12](https://user-images.githubusercontent.com/95258/42129335-c4a0f122-7cca-11e8-8b57-d145da6a6e1d.png)
 
 ## 2018-06-29 day 11
 
