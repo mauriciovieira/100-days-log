@@ -6,6 +6,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [2018-06-30 day 12](#2018-06-30-day-12)
 - [2018-06-29 day 11](#2018-06-29-day-11)
 - [2018-06-28 day 10](#2018-06-28-day-10)
 - [2018-06-27 day 9](#2018-06-27-day-9)
@@ -22,9 +23,15 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## 2018-06-30 day 12
+
+Worked on [supersales rails project](https://github.com/mauriciovieira/supersales). Implemented [cancancan2 + rails_admin configuration](https://github.com/mauriciovieira/supersales/commit/90ab958bf4d8ae2720596056c0179360d6b08fba), and added high_voltage gem to it.
+
+![20180630-day12](https://user-images.githubusercontent.com/95258/42129296-e47ec4ac-7cc9-11e8-8c5a-3d68a3666aa1.png)
+
 ## 2018-06-29 day 11
 
-Worked on [supersales rails project](https://github.com/mauriciovieira/supersales).
+Worked on [supersales rails project](https://github.com/mauriciovieira/supersales). Had some problems with cancancan so I didn't commit it.
 
 ![20180629-day11](https://user-images.githubusercontent.com/95258/42121913-344159ca-7c41-11e8-81d9-8aa2d6147a13.png)
 
