@@ -7,6 +7,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 3](#round-3)
+  - [2018-07-23 day 2](#2018-07-23-day-2)
   - [2018-07-22 day 1](#2018-07-22-day-1)
 - [Round 2](#round-2)
 - [Round 1](#round-1)
@@ -18,6 +19,12 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 ## Round 3
 
 Yet another restart :smiley:
+
+### 2018-07-23 day 2
+
+Worked on [supersales project](https://github.com/mauriciovieira/supersales/pull/3/commits). Decided to use [travis-ci](https://travis-ci.org/mauriciovieira/supersales), instead of cirrus-ci.
+
+![20180723-r3day2](https://user-images.githubusercontent.com/95258/43099395-bbe71446-8eca-11e8-9753-7beed72bec62.png)
 
 ### 2018-07-22 day 1
 
