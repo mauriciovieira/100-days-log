@@ -7,6 +7,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 3](#round-3)
+  - [2018-07-24 day 3](#2018-07-24-day-3)
   - [2018-07-23 day 2](#2018-07-23-day-2)
   - [2018-07-22 day 1](#2018-07-22-day-1)
 - [Round 2](#round-2)
@@ -19,6 +20,12 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 ## Round 3
 
 Yet another restart :smiley:
+
+### 2018-07-24 day 3
+
+Worked on [supersales project](https://github.com/mauriciovieira/supersales/pull/3/commits). Still struggling to make system tests to run inside docker.
+
+![20180724-r3day3](https://user-images.githubusercontent.com/95258/43162271-301bf52a-8f93-11e8-9a9d-cca6aaaf7b1a.png)
 
 ### 2018-07-23 day 2
 
