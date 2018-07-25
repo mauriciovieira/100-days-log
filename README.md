@@ -7,6 +7,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 3](#round-3)
+  - [2018-07-25 day 4](#2018-07-25-day-4)
   - [2018-07-24 day 3](#2018-07-24-day-3)
   - [2018-07-23 day 2](#2018-07-23-day-2)
   - [2018-07-22 day 1](#2018-07-22-day-1)
@@ -20,6 +21,13 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 ## Round 3
 
 Yet another restart :smiley:
+
+### 2018-07-25 day 4
+
+Worked on [supersales project](https://github.com/mauriciovieira/supersales/pull/3/commits). Still struggling to make system tests to run inside docker (same as yesterday). Found an [article](https://www.alfredo.motta.name/dockerized-rails-capybara-tests-on-top-of-selenium/) and I am trying to follow [ledermann/docker-rails](https://github.com/ledermann/docker-rails/commit/02b6d80c5a0aba03f4ec553224ada11361162c66) example but something is still missing. All documentation and code I find is based on rspec, but I just want to use _vanilla_ rails 5.
+
+![20180725-r3day4](https://user-images.githubusercontent.com/95258/43224758-dbf32c66-905f-11e8-9a28-0c128b15b134.png)
+
 
 ### 2018-07-24 day 3
 
