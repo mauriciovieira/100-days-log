@@ -7,6 +7,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 3](#round-3)
+  - [2018-07-26 day 5](#2018-07-26-day-5)
   - [2018-07-25 day 4](#2018-07-25-day-4)
   - [2018-07-24 day 3](#2018-07-24-day-3)
   - [2018-07-23 day 2](#2018-07-23-day-2)
@@ -21,6 +22,13 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 ## Round 3
 
 Yet another restart :smiley:
+
+### 2018-07-26 day 5
+
+Finally closed [supersales#3](https://github.com/mauriciovieira/supersales/pull/3/commits). [Green build](https://travis-ci.org/mauriciovieira/supersales).
+
+![20180726-r3day5](https://user-images.githubusercontent.com/95258/43279775-ac9bffd4-9117-11e8-8cf8-03a99669ca2c.png)
+
 
 ### 2018-07-25 day 4
 
