@@ -7,6 +7,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 3](#round-3)
+  - [2018-07-28 day 7](#2018-07-28-day-7)
   - [2018-07-27 day 6](#2018-07-27-day-6)
   - [2018-07-26 day 5](#2018-07-26-day-5)
   - [2018-07-25 day 4](#2018-07-25-day-4)
@@ -24,9 +25,15 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 
 Yet another restart :smiley:
 
+### 2018-07-28 day 7
+
+Worked on [supersales project](https://github.com/mauriciovieira/supersales/). Added a few test cases for the [characterization test](https://amzn.to/2OpR997) and also improved the documentation.
+
+![20180728-r3day7](https://user-images.githubusercontent.com/95258/43360519-38bb098a-92bf-11e8-9119-5a1044fe0521.png)
+
 ### 2018-07-27 day 6
 
-Worked on [supersales project](https://github.com/mauriciovieira/supersales/pull/3/commits). Added [devise-bootstrapped](https://github.com/king601/devise-bootstrapped) gem.
+Worked on [supersales project](https://github.com/mauriciovieira/supersales/). Added [devise-bootstrapped](https://github.com/king601/devise-bootstrapped) gem.
 
 ![20180727-r3day6](https://user-images.githubusercontent.com/95258/43343532-37b133f0-91ef-11e8-81bd-472501258e80.png)
 
