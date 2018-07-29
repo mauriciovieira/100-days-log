@@ -7,6 +7,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 3](#round-3)
+  - [2018-07-29 day 8](#2018-07-29-day-8)
   - [2018-07-28 day 7](#2018-07-28-day-7)
   - [2018-07-27 day 6](#2018-07-27-day-6)
   - [2018-07-26 day 5](#2018-07-26-day-5)
@@ -24,6 +25,13 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 ## Round 3
 
 Yet another restart :smiley:
+
+### 2018-07-29 day 8
+
+Worked on [my homepage](https://github.com/mauriciovieira/mauriciovieira.net/). Added a paypal donation button.
+I also decided to create a [nvm playbook](https://github.com/mauriciovieira/eiitp/commit/3005d8a7f50e281853c06d5dbfa97878ca1994fe) for my local ansible installation: [eiitp - everybody is in the place?!](https://github.com/mauriciovieira/eiitp). I couldn't make it to install the latest nvm repo, so currently it is hardcoded to [v0.33.11](https://github.com/creationix/nvm/releases).
+
+![20180729-r3day8](https://user-images.githubusercontent.com/95258/43370117-f1a61aee-9381-11e8-968f-14df1a94857a.png)
 
 ### 2018-07-28 day 7
 
