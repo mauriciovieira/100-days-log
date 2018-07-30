@@ -7,6 +7,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 3](#round-3)
+  - [2018-07-30 day 9](#2018-07-30-day-9)
   - [2018-07-29 day 8](#2018-07-29-day-8)
   - [2018-07-28 day 7](#2018-07-28-day-7)
   - [2018-07-27 day 6](#2018-07-27-day-6)
@@ -25,6 +26,12 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 ## Round 3
 
 Yet another restart :smiley:
+
+### 2018-07-30 day 9
+
+Worked on [supersales project](https://github.com/mauriciovieira/supersales/). I am trying to fix the red build. It is some Capybara configuration that I didn't figure out. The short time it was green was because it wasn't really testing the page. Lots of time and not much progress.
+
+![20180729-r3day9](https://user-images.githubusercontent.com/95258/43423095-1adbf03c-9454-11e8-83fb-0dc1b700b72b.png)
 
 ### 2018-07-29 day 8
 
