@@ -7,6 +7,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 3](#round-3)
+  - [2018-08-06 day 10](#2018-08-06-day-10)
   - [2018-07-30 day 9](#2018-07-30-day-9)
   - [2018-07-29 day 8](#2018-07-29-day-8)
   - [2018-07-28 day 7](#2018-07-28-day-7)
@@ -26,6 +27,12 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 ## Round 3
 
 Yet another restart :smiley:
+
+### 2018-08-06 day 10
+
+After a few days not feeling well and a long weekend, I am continuing to work on my public repositories. I gave up on trying to run tests in docker so I setup chromedriver in travis-ci and now [supersales is green](https://travis-ci.org/mauriciovieira/supersales/builds/412496482?utm_source=github_status&utm_medium=notification).
+
+![20180806-r3day10](https://user-images.githubusercontent.com/95258/43699174-54c1bd34-9956-11e8-98af-310fe32536d8.png)
 
 ### 2018-07-30 day 9
 
