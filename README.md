@@ -7,6 +7,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 4](#round-4)
+  - [2020-04-29 day 2](#2020-04-29-day-2)
   - [2020-04-28 day 1](#2020-04-28-day-1)
 - [Round 3](#round-3)
 - [Round 2](#round-2)
@@ -18,6 +19,17 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 ## Round 4
 
 This time, during SARS-COV-2 Pandemic, I decided to take on this challenge again. This time, commit in private repositories also count.
+
+### 2020-04-29 day 2
+
+I didn't log here in time. I was still working in ansible, trying to make [asdf](https://asdf-vm.com/) to work. I found an [ansible role](https://github.com/markosamuli/ansible-asdf) and made it work here.
+
+Readings:
+- https://docs.ansible.com/ansible/latest/galaxy/user_guide.html#finding-collections-on-galaxy
+- https://galaxy.ansible.com/markosamuli/asdf
+- https://docs.ansible.com/ansible/latest/user_guide/playbooks_reuse_roles.html
+
+![2020-04-29-r4day2](images/2020-04-29-100days-log-round4-day2.png)
 
 ### 2020-04-28 day 1
 
