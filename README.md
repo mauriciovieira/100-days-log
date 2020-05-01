@@ -7,6 +7,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 4](#round-4)
+  - [2020-04-30 day 3](#2020-04-30-day-3)
   - [2020-04-29 day 2](#2020-04-29-day-2)
   - [2020-04-28 day 1](#2020-04-28-day-1)
 - [Round 3](#round-3)
@@ -19,6 +20,17 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 ## Round 4
 
 This time, during SARS-COV-2 Pandemic, I decided to take on this challenge again. This time, commit in private repositories also count.
+
+### 2020-04-30 day 3
+
+I finished configuring asdf locally with [everybody is in the place](https://github.com/mauriciovieira/eiitp/commits?author=mauriciovieira&since=2020-04-30&until=2020-04-30). Then I filed a [Bug Report](https://github.com/asdf-vm/asdf/issues/718) to asdf and proposed a [fix for it](https://github.com/asdf-vm/asdf/issues/719).
+I decided to make some security upgrades for some repositories and deployed [one of them](https://github.com/mauriciovieira/make-a-drink) to [heroku](https://mauriciovieira-make-a-drink.herokuapp.com/).
+
+Readings:
+- https://github.com/marmelab/awesome-rest that led me to https://github.com/PostgREST/postgrest, a RESTful API server for any postgresql database written in Haskell.
+- https://github.com/rodrigondec/drf-api-domain/blob/master/Makefile -> https://phalt.github.io/django-api-domains/
+
+![2020-04-30-r4day3](images/2020-04-30-100days-log-round4-day3.png)
 
 ### 2020-04-29 day 2
 
