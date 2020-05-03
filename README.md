@@ -7,6 +7,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 4](#round-4)
+  - [2020-05-03 day 6](#2020-05-03-day-6)
   - [2020-05-02 day 5](#2020-05-02-day-5)
   - [2020-05-01 day 4](#2020-05-01-day-4)
   - [2020-04-30 day 3](#2020-04-30-day-3)
@@ -22,6 +23,10 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 ## Round 4
 
 This time, during SARS-COV-2 Pandemic, I decided to take on this challenge again. This time, commit in private repositories also count.
+
+### 2020-05-03 day 6
+
+Today is my birthday. Another single commit in the rails+react secret project (so far).
 
 ### 2020-05-02 day 5
 
