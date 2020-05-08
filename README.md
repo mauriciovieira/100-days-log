@@ -7,6 +7,9 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 4](#round-4)
+  - [2020-05-07 day 10](#2020-05-07-day-10)
+  - [2020-05-06 day 9](#2020-05-06-day-9)
+  - [2020-05-05 day 8](#2020-05-05-day-8)
   - [2020-05-04 day 7](#2020-05-04-day-7)
   - [2020-05-03 day 6](#2020-05-03-day-6)
   - [2020-05-02 day 5](#2020-05-02-day-5)
@@ -25,6 +28,17 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 
 This time, during SARS-COV-2 Pandemic, I decided to take on this challenge again. This time, commit in private repositories also count.
 
+### 2020-05-07 day 10
+
+Worked on [omnistart_rails](https://github.com/OmnicodeSolutions/omnistart_rails/blob/master/template.rb) and began another POC in rails.
+
+### 2020-05-06 day 9
+
+Worked on exercism and a bit of rails
+
+### 2020-05-05 day 8
+
+Added system tests to the rails+react secret project.
 
 ### 2020-05-04 day 7
 
