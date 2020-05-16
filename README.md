@@ -39,45 +39,45 @@ This time, during SARS-COV-2 Pandemic, I decided to take on this challenge again
 
 ### 2020-05-16 day 19
 
-Today I worked on the rails+react project.
+Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
 
 ### 2020-05-15 day 18
 
-Today I worked on the rails+react project.
+Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
 
 ### 2020-05-14 day 17
 
-Today I worked on the rails+react project.
+Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
 
 ### 2020-05-13 day 16
 
-Today I worked on the rails+react project.
+Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
 
 ### 2020-05-12 day 15
 
-Today I worked on the rails+react project. I changed [eiitp](https://github.com/mauriciovieira/eiitp) a bit:
+Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project. I changed [eiitp](https://github.com/mauriciovieira/eiitp) a bit:
 - created an alias for [omnistart_rails](https://github.com/OmnicodeSolutions/omnistart_rails/blob/master/template.rb) locally
 - installed [postman](https://www.postman.com/) for an investigation
 - upgrade ruby using asdf and added a new directory to path.
 
 ### 2020-05-11 day 14
 
-Today I worked on the rails+react project.
+Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
 
 ### 2020-05-10 day 13
 
-Today I worked on the rails+react project.
+Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
 
 Readings:
 - https://andycroll.com/ruby/choose-uuids-for-model-ids-in-rails/
 
 ### 2020-05-09 day 12
 
-Today I worked on the rails+react project.
+Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
 
 ### 2020-05-08 day 11
 
-Today I worked on the rails+react project.
+Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
 
 ### 2020-05-07 day 10
 
@@ -95,7 +95,7 @@ Added system tests to the rails+react secret project.
 
 **May the fourth be with you**
 
-Today I worked on the rails+react project and started a rails api-only project.
+Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project and started a rails api-only project.
 
 ![2020-05-04-r4day7](images/2020-05-04-100days-log-round4-day7.png)
 
