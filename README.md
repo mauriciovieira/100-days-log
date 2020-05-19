@@ -7,6 +7,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 4](#round-4)
+  - [2020-05-19 day 022](#2020-05-19-day-022)
   - [2020-05-18 day 021](#2020-05-18-day-021)
   - [2020-05-17 day 020](#2020-05-17-day-020)
   - [2020-05-16 day 019](#2020-05-16-day-019)
@@ -38,6 +39,13 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 ## Round 4
 
 This time, during SARS-COV-2 Pandemic, I decided to take on this challenge again. This time, commit in private repositories also count.
+
+### 2020-05-19 day 022
+
+I continued to [learn more about deno](htttps://github.com/mauriciovieira/learning-deno).
+
+Readings:
+- https://medium.com/netscape/fun-with-typescript-string-interpolation-lambda-functions-the-function-invocation-operator-55e21bf055c6
 
 ### 2020-05-18 day 021
 
