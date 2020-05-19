@@ -7,27 +7,27 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 4](#round-4)
-  - [2020-05-18 day 21](#2020-05-18-day-21)
-  - [2020-05-17 day 20](#2020-05-17-day-20)
-  - [2020-05-16 day 19](#2020-05-16-day-19)
-  - [2020-05-15 day 18](#2020-05-15-day-18)
-  - [2020-05-14 day 17](#2020-05-14-day-17)
-  - [2020-05-13 day 16](#2020-05-13-day-16)
-  - [2020-05-12 day 15](#2020-05-12-day-15)
-  - [2020-05-11 day 14](#2020-05-11-day-14)
-  - [2020-05-10 day 13](#2020-05-10-day-13)
-  - [2020-05-09 day 12](#2020-05-09-day-12)
-  - [2020-05-08 day 11](#2020-05-08-day-11)
-  - [2020-05-07 day 10](#2020-05-07-day-10)
-  - [2020-05-06 day 9](#2020-05-06-day-9)
-  - [2020-05-05 day 8](#2020-05-05-day-8)
-  - [2020-05-04 day 7](#2020-05-04-day-7)
-  - [2020-05-03 day 6](#2020-05-03-day-6)
-  - [2020-05-02 day 5](#2020-05-02-day-5)
-  - [2020-05-01 day 4](#2020-05-01-day-4)
-  - [2020-04-30 day 3](#2020-04-30-day-3)
-  - [2020-04-29 day 2](#2020-04-29-day-2)
-  - [2020-04-28 day 1](#2020-04-28-day-1)
+  - [2020-05-18 day 021](#2020-05-18-day-021)
+  - [2020-05-17 day 020](#2020-05-17-day-020)
+  - [2020-05-16 day 019](#2020-05-16-day-019)
+  - [2020-05-15 day 018](#2020-05-15-day-018)
+  - [2020-05-14 day 017](#2020-05-14-day-017)
+  - [2020-05-13 day 016](#2020-05-13-day-016)
+  - [2020-05-12 day 015](#2020-05-12-day-015)
+  - [2020-05-11 day 014](#2020-05-11-day-014)
+  - [2020-05-10 day 013](#2020-05-10-day-013)
+  - [2020-05-09 day 012](#2020-05-09-day-012)
+  - [2020-05-08 day 011](#2020-05-08-day-011)
+  - [2020-05-07 day 010](#2020-05-07-day-010)
+  - [2020-05-06 day 009](#2020-05-06-day-009)
+  - [2020-05-05 day 008](#2020-05-05-day-008)
+  - [2020-05-04 day 007](#2020-05-04-day-007)
+  - [2020-05-03 day 006](#2020-05-03-day-006)
+  - [2020-05-02 day 005](#2020-05-02-day-005)
+  - [2020-05-01 day 004](#2020-05-01-day-004)
+  - [2020-04-30 day 003](#2020-04-30-day-003)
+  - [2020-04-29 day 002](#2020-04-29-day-002)
+  - [2020-04-28 day 001](#2020-04-28-day-001)
 - [Round 3](#round-3)
 - [Round 2](#round-2)
 - [Round 1](#round-1)
@@ -39,69 +39,69 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 
 This time, during SARS-COV-2 Pandemic, I decided to take on this challenge again. This time, commit in private repositories also count.
 
-### 2020-05-18 day 21
+### 2020-05-18 day 021
 
 I continued to [learn more about deno](htttps://github.com/mauriciovieira/learning-deno).
 
-### 2020-05-17 day 20
+### 2020-05-17 day 020
 
 Today I [installed](https://github.com/mauriciovieira/eiitp) [deno](https://deno.land/manual) and [gave it a try](htttps://github.com/mauriciovieira/learning-deno).
 
-### 2020-05-16 day 19
+### 2020-05-16 day 019
 
 Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
 
-### 2020-05-15 day 18
+### 2020-05-15 day 018
 
 Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
 
-### 2020-05-14 day 17
+### 2020-05-14 day 017
 
 Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
 
-### 2020-05-13 day 16
+### 2020-05-13 day 016
 
 Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
 
-### 2020-05-12 day 15
+### 2020-05-12 day 015
 
 Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project. I changed [eiitp](https://github.com/mauriciovieira/eiitp) a bit:
 - created an alias for [omnistart_rails](https://github.com/OmnicodeSolutions/omnistart_rails/blob/master/template.rb) locally
 - installed [postman](https://www.postman.com/) for an investigation
 - upgrade ruby using asdf and added a new directory to path.
 
-### 2020-05-11 day 14
+### 2020-05-11 day 014
 
 Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
 
-### 2020-05-10 day 13
+### 2020-05-10 day 013
 
 Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
 
 Readings:
 - https://andycroll.com/ruby/choose-uuids-for-model-ids-in-rails/
 
-### 2020-05-09 day 12
+### 2020-05-09 day 012
 
 Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
 
-### 2020-05-08 day 11
+### 2020-05-08 day 011
 
 Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
 
-### 2020-05-07 day 10
+### 2020-05-07 day 010
 
 Worked on [omnistart_rails](https://github.com/OmnicodeSolutions/omnistart_rails/blob/master/template.rb) and began another POC in rails.
 
-### 2020-05-06 day 9
+### 2020-05-06 day 009
 
 Worked on exercism and a bit of rails
 
-### 2020-05-05 day 8
+### 2020-05-05 day 008
 
 Added system tests to the rails+react secret project.
 
-### 2020-05-04 day 7
+### 2020-05-04 day 007
 
 **May the fourth be with you**
 
@@ -109,21 +109,21 @@ Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) proje
 
 ![2020-05-04-r4day7](images/2020-05-04-100days-log-round4-day7.png)
 
-### 2020-05-03 day 6
+### 2020-05-03 day 006
 
 Today is my birthday. Another single commit in the rails+react secret project (so far).
 
-### 2020-05-02 day 5
+### 2020-05-02 day 005
 
 Single commit in a personal project. Rails+react. I don't intend to release it open unless I make it more beautiful, with tests on backend and frontend.
 
-### 2020-05-01 day 4
+### 2020-05-01 day 004
 
 Some work on eiitp, and [an exercism solution](https://github.com/mauriciovieira/exercism-tracks/commit/58116d8d8dc0da214ace4b0618f5b217425c580c)
 
 ![2020-05-01-r4day4](images/2020-05-01-100days-log-round4-day4.png)
 
-### 2020-04-30 day 3
+### 2020-04-30 day 003
 
 I finished configuring asdf locally with [everybody is in the place](https://github.com/mauriciovieira/eiitp/commits?author=mauriciovieira&since=2020-04-30&until=2020-04-30). Then I filed a [Bug Report](https://github.com/asdf-vm/asdf/issues/718) to asdf and proposed a [fix for it](https://github.com/asdf-vm/asdf/issues/719).
 I decided to make some security upgrades for some repositories and deployed [one of them](https://github.com/mauriciovieira/make-a-drink) to [heroku](https://mauriciovieira-make-a-drink.herokuapp.com/).
@@ -134,7 +134,7 @@ Readings:
 
 ![2020-04-30-r4day3](images/2020-04-30-100days-log-round4-day3.png)
 
-### 2020-04-29 day 2
+### 2020-04-29 day 002
 
 I didn't log here in time. I was still working in ansible, trying to make [asdf](https://asdf-vm.com/) to work. I found an [ansible role](https://github.com/markosamuli/ansible-asdf) and made it work here.
 
@@ -145,7 +145,7 @@ Readings:
 
 ![2020-04-29-r4day2](images/2020-04-29-100days-log-round4-day2.png)
 
-### 2020-04-28 day 1
+### 2020-04-28 day 001
 
 I have been practicing rails. Since something is broken with my asdf installation, I need to work on my ansible repo [eiitp](https://github.com/mauriciovieira/eiitp).
 
