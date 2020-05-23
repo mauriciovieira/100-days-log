@@ -7,6 +7,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 4](#round-4)
+  - [2020-05-22 day 025](#2020-05-22-day-025)
   - [2020-05-21 day 024](#2020-05-21-day-024)
   - [2020-05-20 day 023](#2020-05-20-day-023)
   - [2020-05-19 day 022](#2020-05-19-day-022)
@@ -42,6 +43,12 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 
 This time, during SARS-COV-2 Pandemic, I decided to take on this challenge again. This time, commit in private repositories also count.
 
+### 2020-05-22 day 025
+
+I continued to [learn more about deno](htttps://github.com/mauriciovieira/learning-deno).
+
+Readings:
+- https://medium.com/developers-writing/write-code-every-day-aab8c7c192f5
 
 ### 2020-05-21 day 024
 
