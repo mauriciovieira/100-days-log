@@ -47,7 +47,7 @@ This time, during SARS-COV-2 Pandemic, I decided to take on this challenge again
 
 ### 2020-05-24 day 027
 
-Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
+Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project, and started [css_drawings](https://github.com/mauriciovieira/css_drawings) project.
 
 ### 2020-05-23 day 026
 
