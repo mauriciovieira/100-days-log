@@ -52,27 +52,35 @@ This time, during SARS-COV-2 Pandemic, I decided to take on this challenge again
 
 ### 2020-05-29 day 032
 
-Today I worked on [css_drawings](https://github.com/mauriciovieira/css_drawings) project.
+Today I worked on [css_drawings](https://mauriciovieira.github.io/css_drawings/) project.
 
 ### 2020-05-28 day 031
 
-Today I worked on [css_drawings](https://github.com/mauriciovieira/css_drawings) project.
+Today I worked on [css_drawings](https://mauriciovieira.github.io/css_drawings/) project.
 
 ### 2020-05-27 day 030
 
-Today I worked on [css_drawings](https://github.com/mauriciovieira/css_drawings) project.
+Today I worked on [css_drawings](https://mauriciovieira.github.io/css_drawings/) project.
 
 ### 2020-05-26 day 029
 
-Today I worked on [css_drawings](https://github.com/mauriciovieira/css_drawings) project.
+Today I worked on [css_drawings](https://mauriciovieira.github.io/css_drawings/) project.
 
 ### 2020-05-25 day 028
 
-Today I worked on [css_drawings](https://github.com/mauriciovieira/css_drawings) project.
+Today I worked on [css_drawings](https://mauriciovieira.github.io/css_drawings/) project.
+
+Readings:
+- https://pugjs.org/api/getting-started.html
+- https://itnext.io/webpack-4-write-pug-templates-c24e5ea07317
+- https://medium.com/@jonas_duri/build-a-landing-page-with-webpack-4-6efe83deb7fe
+- https://webpack.js.org/guides/asset-management/#loading-css
+- https://openbase.io/js/stylus-loader
+- https://stackoverflow.com/questions/33450953/webpack-stylus-loader-incorrectly-resolve-url-paths?rq=1
 
 ### 2020-05-24 day 027
 
-Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project, and started [css_drawings](https://github.com/mauriciovieira/css_drawings) project.
+Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project, and started [css_drawings](https://mauriciovieira.github.io/css_drawings/) project.
 
 ### 2020-05-23 day 026
 
