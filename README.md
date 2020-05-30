@@ -56,7 +56,15 @@ This time, during SARS-COV-2 Pandemic, I decided to take on this challenge again
 Today I worked on [css_drawings](https://mauriciovieira.github.io/css_drawings/) project.
 
 Readings:
+- https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/
 - https://stackoverflow.com/questions/18219402/how-to-use-google-analytics-from-jade-file
+- https://www.youtube.com/watch?v=vGQSG_YnTOw that led me to the following URLs
+- https://github.com/danistefanovic/build-your-own-x
+- https://github.com/EbookFoundation/free-programming-books
+
+- https://blog.prototypr.io/how-to-draw-your-face-in-css-89676e71236a
+- https://blog.prototypr.io/how-i-started-drawing-css-images-3fd878675c89
+- https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2
 
 ### 2020-05-29 day 032
 
@@ -100,6 +108,7 @@ I continued to [learn more about deno](htttps://github.com/mauriciovieira/learni
 
 Readings:
 - https://medium.com/developers-writing/write-code-every-day-aab8c7c192f5
+- https://www.reddit.com/r/Deno/comments/gov6t4/whats_the_expressjs_of_deno/
 
 ### 2020-05-21 day 024
 
