@@ -7,6 +7,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 4](#round-4)
+  - [2020-05-30 day 033](#2020-05-30-day-033)
   - [2020-05-29 day 032](#2020-05-29-day-032)
   - [2020-05-28 day 031](#2020-05-28-day-031)
   - [2020-05-27 day 030](#2020-05-27-day-030)
@@ -49,6 +50,13 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 ## Round 4
 
 This time, during SARS-COV-2 Pandemic, I decided to take on this challenge again. This time, commit in private repositories also count.
+
+### 2020-05-30 day 033
+
+Today I worked on [css_drawings](https://mauriciovieira.github.io/css_drawings/) project.
+
+Readings:
+- https://stackoverflow.com/questions/18219402/how-to-use-google-analytics-from-jade-file
 
 ### 2020-05-29 day 032
 
