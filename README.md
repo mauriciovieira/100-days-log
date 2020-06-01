@@ -59,6 +59,7 @@ Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) proje
 ### 2020-05-30 day 033
 
 Today I worked on [css_drawings](https://mauriciovieira.github.io/css_drawings/) project.
+I also fixed several dependency alerts across my repositories.
 
 Readings:
 - https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/
