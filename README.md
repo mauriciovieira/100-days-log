@@ -7,6 +7,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 4](#round-4)
+  - [2020-06-12 day 046](#2020-06-12-day-046)
   - [2020-06-11 day 045](#2020-06-11-day-045)
   - [2020-06-10 day 044](#2020-06-10-day-044)
   - [2020-06-09 day 043](#2020-06-09-day-043)
@@ -62,6 +63,10 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 ## Round 4
 
 This time, during SARS-COV-2 Pandemic, I decided to take on this challenge again. This time, commit in private repositories also count.
+
+### 2020-06-12 day 046
+
+Today I started [dgroops-travelguide](https://github.com/mauriciovieira/dgroops_travelguide) project. This is initially a project to seek partnership with https://dgroops.com in a hackathon. Published at https://dgroops-travelguide.herokuapp.com/
 
 ### 2020-06-11 day 045
 
