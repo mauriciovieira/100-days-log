@@ -7,6 +7,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 4](#round-4)
+  - [2020-06-13 day 047](#2020-06-13-day-047)
   - [2020-06-12 day 046](#2020-06-12-day-046)
   - [2020-06-11 day 045](#2020-06-11-day-045)
   - [2020-06-10 day 044](#2020-06-10-day-044)
@@ -63,6 +64,18 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 ## Round 4
 
 This time, during SARS-COV-2 Pandemic, I decided to take on this challenge again. This time, commit in private repositories also count.
+
+### 2020-06-13 day 047
+
+I didn't really code, because I'm participating in a hackathon.
+
+Resources:
+- https://www.sitepoint.com/invision-marvel-justinmind-prototyping-tools-compared/
+- https://kimdal-hyeong.github.io/html-to-sketch-electron/download-analyst/
+- https://www.reddit.com/r/sketchapp/comments/eo47qs/how_to_import_web_pages_into_sketch/
+- https://github.com/KimDal-hyeong/html-to-sketch-electron
+- https://sketchtalk.io/discussion/1584/noob-one-how-can-i-import-new-fonts-into-sketch `copy Roboto*.ttf` to `~/Library/Fonts`
+- https://themeforest.net/popular_item/by_category?category=sketch-templates
 
 ### 2020-06-12 day 046
 
