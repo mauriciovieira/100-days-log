@@ -71,6 +71,9 @@ This time, during SARS-COV-2 Pandemic, I decided to take on this challenge again
 
 Today I worked on a private repository for the hackathon.
 
+Readings:
+- http://mitrev.net/rails/2015/04/19/rails-migration-generator-specifying-precision-and-scale/
+
 ### 2020-06-14 day 048
 
 Today I worked on a private repository for the hackathon.
