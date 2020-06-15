@@ -69,10 +69,11 @@ This time, during SARS-COV-2 Pandemic, I decided to take on this challenge again
 
 ### 2020-06-15 day 049
 
-Today I worked on a private repository for the hackathon.
+Today I worked on a private repository for the hackathon. I also worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
 
 Readings:
 - http://mitrev.net/rails/2015/04/19/rails-migration-generator-specifying-precision-and-scale/
+- https://til.hashrocket.com/posts/4897ed42b7-invoking-rake-tasks-multiple-times
 
 ### 2020-06-14 day 048
 
