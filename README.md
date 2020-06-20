@@ -7,6 +7,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 4](#round-4)
+  - [2020-06-20 day 054](#2020-06-20-day-054)
   - [2020-06-19 day 053](#2020-06-19-day-053)
   - [2020-06-18 day 052](#2020-06-18-day-052)
   - [2020-06-17 day 051](#2020-06-17-day-051)
@@ -70,6 +71,14 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 ## Round 4
 
 This time, during SARS-COV-2 Pandemic, I decided to take on this challenge again. This time, commit in private repositories also count.
+
+
+### 2020-06-20 day 054
+
+Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
+
+Readings:
+- https://guides.rubyonrails.org/autoloading_and_reloading_constants.html
 
 ### 2020-06-19 day 053
 
