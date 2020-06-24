@@ -7,6 +7,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 4](#round-4)
+  - [2020-06-24 day 058](#2020-06-24-day-058)
   - [2020-06-23 day 057](#2020-06-23-day-057)
   - [2020-06-22 day 056](#2020-06-22-day-056)
   - [2020-06-21 day 055](#2020-06-21-day-055)
@@ -74,6 +75,14 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 ## Round 4
 
 This time, during SARS-COV-2 Pandemic, I decided to take on this challenge again. This time, commit in private repositories also count.
+
+### 2020-06-24 day 058
+
+Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
+
+Readings:
+- https://gist.github.com/tomas-stefano/6652111
+- https://devhints.io/capybara
 
 ### 2020-06-23 day 057
 
