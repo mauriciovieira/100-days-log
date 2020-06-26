@@ -7,6 +7,7 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Round 4](#round-4)
+  - [2020-06-26 day 060](#2020-06-26-day-060)
   - [2020-06-25 day 059](#2020-06-25-day-059)
   - [2020-06-24 day 058](#2020-06-24-day-058)
   - [2020-06-23 day 057](#2020-06-23-day-057)
@@ -76,6 +77,17 @@ The log of [my 100 Days Of Code](https://medium.freecodecamp.org/join-the-100day
 ## Round 4
 
 This time, during SARS-COV-2 Pandemic, I decided to take on this challenge again. This time, commit in private repositories also count.
+
+### 2020-06-26 day 060
+
+Today I worked on [mauxmusic](https://github.com/mauriciovieira/mauxmusic) project.
+
+Readings:
+- https://stackoverflow.com/questions/15482354/how-to-validate-text-isnt-blank-in-rails
+- https://guides.rubyonrails.org/active_record_validations.html
+- https://stackoverflow.com/questions/2778522/rails-update-attribute-vs-update-attributes
+- https://api.rubyonrails.org/v5.2.3/classes/ActiveRecord/Enum.html
+- https://stackoverflow.com/questions/25122650/how-do-you-create-a-current-user-method-without-using-devise
 
 ### 2020-06-25 day 059
 
